@@ -4,7 +4,7 @@ GitHub made paid user `PRO`.
 
 So, I guess i'm `NOT PRO`
 
-"NOT PRO" just puts a "NOT PRO" under your head.
+"NOT PRO" just puts a "NOT PRO" under your avatar.
 
 ### Before
 
