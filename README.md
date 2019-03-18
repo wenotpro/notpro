@@ -14,7 +14,7 @@ So, I guess i'm `NOT PRO`
 
 ```go
 go get github.com/CovenantSQL/notpro
-notpro -input head.jpeg
+$GOPATH/bin/notpro -input head.jpeg
 ```
 
 ### After
