@@ -13,7 +13,7 @@ So, I guess i'm `NOT PRO`
 ### Run
 
 ```go
-go get github.com/CovenantSQL/notpro
+go get github.com/wenotpro/notpro
 $GOPATH/bin/notpro -input head.jpeg
 ```
 
